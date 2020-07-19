@@ -1,7 +1,7 @@
 import { AsyncStorage } from 'react-native'
 const DECK_STORAGE_KEY = 'deck_storage_key'
 
-data = {
+const data = {
   React: {
     title: 'React',
     questions: [
